@@ -1,5 +1,5 @@
 {
-  "total": 4871,
+  "total": 4106,
   "sources": [
     {
       "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
@@ -14,7 +14,7 @@
     {
       "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt",
       "ok": true,
-      "count": 17
+      "count": 8
     },
     {
       "url": "https://raw.githubusercontent.com/clashv2ray-hub/v2rayfree/refs/heads/main/v2ray.txt",
@@ -24,7 +24,7 @@
     {
       "url": "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub",
       "ok": true,
-      "count": 216
+      "count": 211
     },
     {
       "url": "https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/clash.yaml",
@@ -34,27 +34,27 @@
     {
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt",
       "ok": true,
-      "count": 1512
+      "count": 1037
     },
     {
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/clash.yaml",
       "ok": true,
-      "count": 1512
+      "count": 1025
     },
     {
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/singbox.json",
       "ok": true,
-      "count": 1478
+      "count": 1002
     },
     {
       "url": "https://raw.githubusercontent.com/yy1588133/proxy-pool/main/clash.yaml",
       "ok": true,
-      "count": 0
+      "count": 799
     },
     {
       "url": "https://raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt",
       "ok": true,
-      "count": 792
+      "count": 799
     }
   ]
 }
