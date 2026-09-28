@@ -1,5 +1,5 @@
 {
-  "total": 5561,
+  "total": 4309,
   "sources": [
     {
       "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
@@ -14,7 +14,7 @@
     {
       "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt",
       "ok": true,
-      "count": 18
+      "count": 5
     },
     {
       "url": "https://raw.githubusercontent.com/clashv2ray-hub/v2rayfree/refs/heads/main/v2ray.txt",
@@ -34,27 +34,27 @@
     {
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt",
       "ok": true,
-      "count": 1565
+      "count": 975
     },
     {
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/clash.yaml",
       "ok": true,
-      "count": 1565
+      "count": 975
     },
     {
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/singbox.json",
       "ok": true,
-      "count": 1544
+      "count": 965
     },
     {
       "url": "https://raw.githubusercontent.com/yy1588133/proxy-pool/main/clash.yaml",
       "ok": true,
-      "count": 856
+      "count": 903
     },
     {
       "url": "https://raw.githubusercontent.com/yy1588133/proxy-pool/main/v2ray.txt",
       "ok": true,
-      "count": 856
+      "count": 902
     }
   ]
 }
